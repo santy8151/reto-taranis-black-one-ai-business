@@ -1,0 +1,54 @@
+# .gitignore
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+htmlcov/
+
+# Node / frontend
+node_modules/
+.npm/
+.pnpm-store/
+
+# Logs y temporales
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# Datos locales y secretos
+.env
+.env.*
+*.pem
+*.key
+
+# Paquetes y artefactos
+build/
+dist/
+out/
+*.zip
+*.tar.gz
