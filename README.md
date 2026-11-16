@@ -4,6 +4,22 @@
 
 El presente repositorio documenta la entrega del reto de empresa simulada Taranis Black para el programa Oracle Next Education (ONE) junto con Alura. El proyecto está orientado a la definición y validación de una estrategia de IA aplicada a negocios reales, con foco en análisis de datos, priorización de casos de uso, gobernanza, evidencia y validación humana en el loop (HITL).
 
+## Resumen ejecutivo
+
+Taranis Black cerró con **EBITDA de USD 5,77 M frente a 9,85 M presupuestados (−41 %)**. Se cuantifican **≈ USD 3,89 M/año** en pérdidas por crédito lento, fletes de emergencia, incobrables, boletos divergentes y cierre tardío, además de una rotación del **22,8 %** (38,5 % en Atención). La propuesta prioriza casos de uso de IA con supervisión humana y cumplimiento de la LGPD.
+
+## Estado de la entrega
+
+| Entregable | Estado |
+|---|---|
+| Ruta 0 · Etapa 1 AI Canvas | ✅ [ai_canvas.md](./01_ruta_0_base_estrategica/etapa_1_ai_canvas/ai_canvas.md) |
+| Ruta 0 · Etapa 2 Matriz | ✅ [matriz_esfuerzo_impacto.md](./01_ruta_0_base_estrategica/etapa_2_matriz_impacto/matriz_esfuerzo_impacto.md) |
+| Ruta 0 · Etapa 3 Gobernanza/LGPD | ✅ [politica](./01_ruta_0_base_estrategica/etapa_3_gobernanza_lgpd/politica_gobernanza_etica_lgpd.md) |
+| Rutas 1–4 · Etapa 1 | ✅ [02_vertical_especializacion](./02_vertical_especializacion/README.md) |
+| Prompts | ✅ borrador [03_prompts_y_skills](./03_prompts_y_skills/README.md) |
+| Evidencias HITL | ⏳ pendiente de ejecutar prompts y adjuntar enlaces/capturas |
+| Informe en Google Docs | ⏳ pendiente ([checklist](./04_evidencias_hitl/checklist_entrega.md)) |
+
 ## Objetivos
 
 - Definir la estrategia de IA para la empresa simulada Taranis Black.
@@ -26,14 +42,14 @@ El presente repositorio documenta la entrega del reto de empresa simulada Tarani
 
 ### 2. Ruta 0: Base estratégica
 - [01_ruta_0_base_estrategica](./01_ruta_0_base_estrategica/README.md)
-- [Etapa 1: AI Canvas](./01_ruta_0_base_estrategica/etapa_1_ai_canvas/)
-- [Etapa 2: Matriz de impacto](./01_ruta_0_base_estrategica/etapa_2_matriz_impacto/)
-- [Etapa 3: Gobernanza LGPD](./01_ruta_0_base_estrategica/etapa_3_gobernanza_lgpd/)
+- [Etapa 1: AI Canvas](./01_ruta_0_base_estrategica/etapa_1_ai_canvas/ai_canvas.md)
+- [Etapa 2: Matriz de impacto](./01_ruta_0_base_estrategica/etapa_2_matriz_impacto/matriz_esfuerzo_impacto.md)
+- [Etapa 3: Gobernanza LGPD](./01_ruta_0_base_estrategica/etapa_3_gobernanza_lgpd/politica_gobernanza_etica_lgpd.md)
 
 ### 3. Vertical de especialización
 - [02_vertical_especializacion](./02_vertical_especializacion/README.md)
-- [Etapa 1: Obligatoria](./02_vertical_especializacion/etapa_1_obligatoria/)
-- [Etapa 2: Opcional](./02_vertical_especializacion/etapa_2_opcional/)
+- [Ruta 1 Ventas](./02_vertical_especializacion/etapa_1_obligatoria/ruta_1_ventas.md) · [Ruta 2 Marketing](./02_vertical_especializacion/etapa_1_obligatoria/ruta_2_marketing.md) · [Ruta 3 RR. HH.](./02_vertical_especializacion/etapa_1_obligatoria/ruta_3_rrhh.md) · [Ruta 4 Finanzas](./02_vertical_especializacion/etapa_1_obligatoria/ruta_4_finanzas_operaciones.md)
+- [Etapa 2: Opcional](./02_vertical_especializacion/etapa_2_opcional/extensiones_opcionales.md)
 
 ### 4. Prompts, system instructions y Skills
 - [03_prompts_y_skills](./03_prompts_y_skills/README.md)

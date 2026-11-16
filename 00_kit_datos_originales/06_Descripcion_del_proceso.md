@@ -1,5 +1,6 @@
-# 06_Descripcion_del_proceso
+# 06 · Proceso operativo SIPOC
 
-Archivo de descripción del proceso del reto Taranis Black.
+**Archivo original:** [06_Descripcion_del_proceso_operativo_SIPOC.pdf](./archivos/06_Descripcion_del_proceso_operativo_SIPOC.pdf)
+**Ruta:** 4 · Finanzas/Operaciones
 
-> Aquí se documenta el flujo operativo o proceso del negocio a analizar.
+Proceso As-Is de crédito, facturación y despacho; SIPOC e Ishikawa 6M.

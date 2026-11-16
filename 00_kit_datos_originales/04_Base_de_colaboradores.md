@@ -1,5 +1,6 @@
-# 04_Base_de_colaboradores
+# 04 · Base de colaboradores
 
-Archivo base de colaboradores del reto Taranis Black.
+**Archivo original:** [04_Base_de_colaboradores_People_Analytics.xlsx](./archivos/04_Base_de_colaboradores_People_Analytics.xlsx)
+**Ruta:** 3 · RR. HH.
 
-> Aquí se registran los datos de colaboradores, roles o estructura de talento del caso.
+280 colaboradores, encuesta de clima y rotación (22,8 % calculado). Contiene datos personales sintéticos: anonimizar antes de usar con IA.

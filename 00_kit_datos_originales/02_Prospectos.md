@@ -1,5 +1,6 @@
-# 02_Prospectos
+# 02 · Prospectos B2B
 
-Archivo base de prospectos del reto Taranis Black.
+**Archivo original:** [02_Prospectos_B2B_Comercial.xlsx](./archivos/02_Prospectos_B2B_Comercial.xlsx)
+**Ruta:** 1 · Ventas
 
-> Aquí se almacena la base de leads o prospectos utilizada como insumo principal del análisis.
+20 prospectos (USD 4,69 M de pipeline) y matriz de 5 objeciones con respuestas basadas en valor.

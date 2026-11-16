@@ -1,5 +1,6 @@
-# 03_Marketing
+# 03 · Marketing: artículo base y tono
 
-Archivo base de marketing del reto Taranis Black.
+**Archivo original:** [03_Marketing_Articulo_base_y_guia_de_tono.pdf](./archivos/03_Marketing_Articulo_base_y_guia_de_tono.pdf)
+**Ruta:** 2 · Marketing
 
-> Este documento contiene la base de estrategias, campañas o contexto comercial del área de marketing.
+Artículo sobre ergonomía activa y NR-17 y manual de 4 pilares de voz.

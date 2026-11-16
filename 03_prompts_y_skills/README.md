@@ -1,9 +1,12 @@
 # 03_prompts_y_skills
 
-Este directorio contiene los prompts estructurados, instrucciones de sistema, prompts de validación y Skills creados para la solución de IA.
+Prompts versionados por ruta. Cada archivo documenta propósito, instrucciones de sistema, variables, formato de salida y validación HITL.
 
-## Uso recomendado
+| Archivo | Ruta |
+|---|---|
+| [prompt_ventas_objeciones.md](./prompt_ventas_objeciones.md) | 1 · Ventas |
+| [prompt_marketing_voz_marca.md](./prompt_marketing_voz_marca.md) | 2 · Marketing |
+| [prompt_rrhh_people_analytics.md](./prompt_rrhh_people_analytics.md) | 3 · RR. HH. |
+| [prompt_finanzas_operaciones.md](./prompt_finanzas_operaciones.md) | 4 · Finanzas |
 
-- Crear archivos `.md` por prompt o skill.
-- Documentar propósito, variables, criterio de salida y validación.
-- Mantener una versión reproducible para auditoría.
+Buenas prácticas: una versión por cambio, registrar modelo usado y fecha, probar con casos reales del kit y guardar la evidencia.

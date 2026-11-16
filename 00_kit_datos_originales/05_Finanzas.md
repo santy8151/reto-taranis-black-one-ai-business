@@ -1,5 +1,6 @@
-# 05_Finanzas
+# 05 · Finanzas presupuesto vs real
 
-Archivo base financiero del reto Taranis Black.
+**Archivo original:** [05_Finanzas_Presupuesto_vs_Real.xlsx](./archivos/05_Finanzas_Presupuesto_vs_Real.xlsx)
+**Ruta:** 4 · Finanzas
 
-> Se conserva la base de información financiera del caso simulado para el análisis estratégico.
+P&L trimestral, ingresos por línea y cuellos de botella (≈ USD 3,89 M/año).
