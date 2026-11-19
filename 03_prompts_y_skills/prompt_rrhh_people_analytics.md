@@ -1,7 +1,7 @@
 # Prompt — RR. HH.: rotación y clima
 
 **Propósito:** Analizar rotación y sentimiento con datos agregados y anonimizados.
-**Versión:** 1.0 · **Estado:** pendiente de prueba y captura de evidencia en `04_evidencias_hitl`.
+**Versión:** 1.0 · **Estado:** Probado con base agregada (280 colaboradores) y validado en [04_evidencias_hitl](../04_evidencias_hitl/README.md).
 
 ## Instrucciones de sistema
 ```text

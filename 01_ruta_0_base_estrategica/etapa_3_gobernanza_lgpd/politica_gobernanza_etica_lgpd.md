@@ -1,5 +1,7 @@
 # Ruta 0 · Etapa 3 — Política de gobernanza, ética y LGPD
 
+![Política de Gobernanza, Riesgos y LGPD](../../04_evidencias_hitl/capturas/ruta0_gobernanza_lgpd.png)
+
 ## 1. Principios
 1. **Humano en el bucle:** decisiones con efecto sobre personas (crédito, contratación, desvinculación, evaluación) nunca son automáticas.
 2. **Transparencia:** todo contenido generado con IA se identifica y se registra (prompt, versión, revisor).

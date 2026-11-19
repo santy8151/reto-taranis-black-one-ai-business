@@ -1,7 +1,7 @@
 # Prompt — Ventas: objeciones y propuestas
 
 **Propósito:** Responder objeciones B2B con enfoque consultivo basado en el catálogo.
-**Versión:** 1.0 · **Estado:** pendiente de prueba y captura de evidencia en `04_evidencias_hitl`.
+**Versión:** 1.0 · **Estado:** Probado con `#1045 Vanguarda Softwares` y validado en [04_evidencias_hitl](../04_evidencias_hitl/README.md).
 
 ## Instrucciones de sistema
 ```text

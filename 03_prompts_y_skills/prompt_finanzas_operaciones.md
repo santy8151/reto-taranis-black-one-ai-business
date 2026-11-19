@@ -1,7 +1,7 @@
 # Prompt — Finanzas/Operaciones: SIPOC, Ishikawa y panel
 
 **Propósito:** Construir flujo Lean, causa raíz y análisis presupuesto vs real.
-**Versión:** 1.0 · **Estado:** pendiente de prueba y captura de evidencia en `04_evidencias_hitl`.
+**Versión:** 1.0 · **Estado:** Probado con P&L T1–T4 + SIPOC As-Is y validado en [04_evidencias_hitl](../04_evidencias_hitl/README.md).
 
 ## Instrucciones de sistema
 ```text

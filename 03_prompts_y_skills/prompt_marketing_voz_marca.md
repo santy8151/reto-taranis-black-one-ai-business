@@ -1,7 +1,7 @@
 # Prompt — Marketing: voz de marca
 
 **Propósito:** Adaptar el artículo NR-17 a LinkedIn, Instagram y e-mail.
-**Versión:** 1.0 · **Estado:** pendiente de prueba y captura de evidencia en `04_evidencias_hitl`.
+**Versión:** 1.0 · **Estado:** Probado con artículo NR-17 (LinkedIn + IG) y validado en [04_evidencias_hitl](../04_evidencias_hitl/README.md).
 
 ## Instrucciones de sistema
 ```text
