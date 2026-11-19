@@ -8,6 +8,9 @@
 
 ![Panel Financiero Ejecutivo](../../04_evidencias_hitl/capturas/ruta4_finanzas_panel_ejecutivo.png)
 
+### Tablero Gerencial estilo Magnus BI (360°)
+![Tablero Magnus BI](../../04_evidencias_hitl/capturas/vista_magnus_tablero_ejecutivo.png)
+
 | Concepto P&L (USD) | Presupuesto anual | Real anual | Variación | Lectura ejecutiva |
 |---|---|---|---|---|
 | Ingresos brutos | 48.600.000 | 48.500.000 | −0,2 % | La demanda comercial casi cumplió la meta |
@@ -45,6 +48,8 @@ La hoja 2 (`Ingresos_por_producto`) reporta ingresos reales de **USD 47,40 M** (
 - **Medio ambiente:** Fricción y distancia física entre Comercial (São Paulo) y el CD (Joinville/SC); cultura reactiva de "apagar incendios".
 
 ## 4. Proceso To-Be Lean + IA con Matriz de Alzada y HITL
+
+![Workflow n8n Order-to-Cash HITL](../../04_evidencias_hitl/capturas/vista_n8n_workflow_order_to_cash.png)
 | Paso | Transformación Lean + IA | Control HITL | Impacto esperado |
 |---|---|---|---|
 | **1** | **OCR + LLM** extrae CNPJ, IE, SKUs, dirección y flete CIF/FOB del PDF y valida contra el catálogo oficial. | Alerta automática ante cualquier campo faltante o SKU divergente. | Cero re-digitación manual |

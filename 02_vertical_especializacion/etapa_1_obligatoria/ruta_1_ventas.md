@@ -4,6 +4,9 @@
 
 ![Pipeline B2B y Manual de 5 Objeciones](../../04_evidencias_hitl/capturas/ruta1_ventas_pipeline_objeciones.png)
 
+### Vista operativa tipo Trello (Embudo B2B y control HITL)
+![Tablero Trello Pipeline y Control HITL](../../04_evidencias_hitl/capturas/vista_trello_kanban_comercial_ops.png)
+
 ## 1. Diagnóstico del pipeline CRM (20 prospectos reales)
 | Categoría de objeción | N.º deals | Valor en pipeline (USD) | Cuentas representativas |
 |---|---|---|---|

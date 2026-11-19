@@ -16,6 +16,10 @@ Registro oficial de validación **Human-in-the-Loop (HITL)**, capturas analític
 | 2026-11-18 | **Ruta 3 · RR. HH. (Opc.)** | `prompt_rrhh_people_analytics.md` (v1.0) | `04_Base_de_colaboradores_People_Analytics.xlsx` (280 filas) | Rotación por área, eNPS, ausentismo y motivos de salida | **Discrepancia detectada por humano:** recuento real da 64/280 = **22,86 %** y 13 salidas ≤ 90 d (**20,3 %**), vs 22,5 % / 23,4 % indicados en guía. | People Analytics | [ruta3_rrhh_simulador_people_analytics.png](./capturas/ruta3_rrhh_simulador_people_analytics.png) |
 | 2026-11-18 | **Ruta 4 · Finanzas (Oblig.)** | `prompt_finanzas_operaciones.md` (v1.0) | `06_Descripcion_del_proceso_operativo_SIPOC.docx` | Matriz SIPOC + Ishikawa 6M + Flujo To-Be con matriz de alzada | Se aseguró que toda aprobación de crédito de alto monto/excepción mantenga firma del Gerente Financiero. | Gerente Financiero | [ruta4_finanzas_sipoc_ishikawa.png](./capturas/ruta4_finanzas_sipoc_ishikawa.png) |
 | 2026-11-18 | **Ruta 4 · Finanzas (Opc.)** | `prompt_finanzas_operaciones.md` (v1.0) | `05_Finanzas_Presupuesto_vs_Real.xlsx` (Hojas 1, 2 y 3) | Panel P&L T1–T4 (EBITDA −41,4 %) + cascada USD 3,89 M | **Discrepancia detectada por humano:** Hoja 2 suma **USD 47,40 M** vs **48,50 M** bruto / **39,02 M** neto en Hoja 1. Documentado para conciliación contable. | Contraloría / Finanzas | [ruta4_finanzas_panel_ejecutivo.png](./capturas/ruta4_finanzas_panel_ejecutivo.png) |
+| 2026-11-18 | **Maqueta UI · Canva** | Lienzo visual AI Canvas + 3 Casos + Marca | Datos integrados Ruta 0 + Ruta 2 | Vista editorial tipo Canva para presentación ejecutiva | Validación de coherencia de cifras y pilares de marca | Consultor IA | [vista_canva_ai_canvas_estrategico.png](./capturas/vista_canva_ai_canvas_estrategico.png) |
+| 2026-11-18 | **Maqueta UI · Trello** | Tablero Kanban Comercial & Order-to-Cash | 20 prospectos CRM + flujo HITL | 5 columnas Kanban con tarjetas reales y etiquetas de objeción | Verificación de regla cero descuento y escalamiento de crédito | Comercial / Finanzas | [vista_trello_kanban_comercial_ops.png](./capturas/vista_trello_kanban_comercial_ops.png) |
+| 2026-11-18 | **Maqueta UI · n8n** | Workflow Order-to-Cash + Matriz de Alzada | Caso `#1042 FinCloud` ($199.200) + SIPOC | Flujo nodal 8 pasos con espera humana (`HITL`) y salida JSON | Validación de alzada > USD 35 k bajo firma gerencial | Operaciones / TI | [vista_n8n_workflow_order_to_cash.png](./capturas/vista_n8n_workflow_order_to_cash.png) |
+| 2026-11-18 | **Maqueta UI · Magnus BI** | Command Center Ejecutivo 360° | P&L T1–T4 + Cuellos de botella + RR. HH. | KPIs, EBITDA trimestral, semáforo SLA y rotación por área | Conciliación de cifras reales contra hojas Excel 04 y 05 | Dirección / Contraloría | [vista_magnus_tablero_ejecutivo.png](./capturas/vista_magnus_tablero_ejecutivo.png) |
 
 ---
 
@@ -37,6 +41,13 @@ Registro oficial de validación **Human-in-the-Loop (HITL)**, capturas analític
 ### Ruta 4 · Finanzas y Operaciones (SIPOC, Ishikawa 6M y Panel Financiero T1–T4)
 ![Ruta 4 SIPOC e Ishikawa](./capturas/ruta4_finanzas_sipoc_ishikawa.png)
 ![Ruta 4 Panel Financiero](./capturas/ruta4_finanzas_panel_ejecutivo.png)
+
+### Prototipos visuales por herramienta (Canva, Trello, n8n y Magnus BI)
+*Maquetas de arquitectura e interfaz construidas directamente con los datos reales del kit Taranis Black:*
+![Vista Canva AI Canvas](./capturas/vista_canva_ai_canvas_estrategico.png)
+![Vista Trello Kanban](./capturas/vista_trello_kanban_comercial_ops.png)
+![Vista n8n Workflow](./capturas/vista_n8n_workflow_order_to_cash.png)
+![Vista Magnus BI](./capturas/vista_magnus_tablero_ejecutivo.png)
 
 ---
 

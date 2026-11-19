@@ -48,6 +48,13 @@ La solución propuesta combina automatización ligera con **supervisión humana 
 ### Evidencias y Auditoría Human-in-the-Loop (HITL)
 ![Tabla de Evidencias HITL](./04_evidencias_hitl/capturas/evidencias_hitl_pruebas_prompts.png)
 
+### Vistas de arquitectura por herramienta (Canva, Trello, n8n y Magnus BI)
+*Prototipos visuales construidos con los datos reales del kit Taranis Black para mostrar el flujo operativo de punta a punta:*
+![Vista Canva AI Canvas](./04_evidencias_hitl/capturas/vista_canva_ai_canvas_estrategico.png)
+![Vista Trello Kanban](./04_evidencias_hitl/capturas/vista_trello_kanban_comercial_ops.png)
+![Vista n8n Workflow](./04_evidencias_hitl/capturas/vista_n8n_workflow_order_to_cash.png)
+![Vista Magnus BI](./04_evidencias_hitl/capturas/vista_magnus_tablero_ejecutivo.png)
+
 ---
 
 ## Índice navegable
@@ -83,7 +90,7 @@ Copia el contenido de [`05_informe_ejecutivo/informe_ejecutivo_google_docs.md`](
 ├── 04_evidencias_hitl/
 │   ├── README.md
 │   ├── checklist_entrega.md
-│   └── capturas/                # 8 pantallazos PNG de alta resolución
+│   └── capturas/                # 12 pantallazos PNG de alta resolución (incl. vistas Trello, n8n, Magnus y Canva)
 └── 05_informe_ejecutivo/
     ├── informe_ejecutivo_google_docs.md
     └── guion_video_5min.md

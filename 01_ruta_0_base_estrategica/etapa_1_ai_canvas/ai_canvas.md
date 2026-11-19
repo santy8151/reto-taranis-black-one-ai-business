@@ -2,6 +2,8 @@
 
 > Fuente: kit de datos Taranis Black (`00_kit_datos_originales/archivos/` 01–06). Cifras en USD.
 
+![AI Canvas Estrategico estilo Canva](../../04_evidencias_hitl/capturas/vista_canva_ai_canvas_estrategico.png)
+
 ## 1. Contexto del negocio
 Taranis Black fabrica mobiliario corporativo ergonómico (*ErgoPro*, *SmartDesk*, *Silence* y periféricos) con foco B2B (70 % de los ingresos) y D2C (30 %), alineado a la norma NR-17.
 - **Ingresos brutos reales:** USD 48,50 M (presupuesto 48,60 M) · **Ingresos netos reales:** USD 39,02 M (presupuesto 39,78 M; −1,9 %).

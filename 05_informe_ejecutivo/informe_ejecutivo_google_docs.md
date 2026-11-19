@@ -17,6 +17,7 @@ Esta consultoría diseña una arquitectura práctica de **IA con Humano en el Bu
 ## 2. Ruta 0 · Base Estratégica (Obligatorio)
 
 ### 2.1 Etapa 1 — Oportunidades: AI Canvas y 3 Casos de Uso Prioritarios
+*(Insertar captura estilo Canva: `04_evidencias_hitl/capturas/vista_canva_ai_canvas_estrategico.png`)*
 - **Objetivo de negocio:** Recuperar margen y EBITDA, reducir el ciclo pedido→cobro de 48 h a ≤ 4 h y mitigar la rotación temprana.
 - **Datos disponibles (sintéticos):** Catálogo oficial (`01`), 20 prospectos CRM por USD 4,69 M (`02`), artículo NR-17 y guía de tono (`03`), base de 280 colaboradores y clima (`04`), P&L trimestral (`05`) y mapeo SIPOC (`06`).
 - **Supervisión humana (HITL):** Toda aprobación de crédito, excepción de precio/descuento, publicación externa y decisión de personas requiere validación humana explícita.
@@ -49,7 +50,7 @@ Esta consultoría diseña una arquitectura práctica de **IA con Humano en el Bu
 ## 3. Especialización Declarada: Ruta 4 · Finanzas y Operaciones
 
 ### 3.1 Entregable Obligatorio: SIPOC + Ishikawa (6M) + Proceso To-Be
-*(Insertar captura: `04_evidencias_hitl/capturas/ruta4_finanzas_sipoc_ishikawa.png`)*
+*(Insertar capturas: `04_evidencias_hitl/capturas/ruta4_finanzas_sipoc_ishikawa.png` y flujo n8n `04_evidencias_hitl/capturas/vista_n8n_workflow_order_to_cash.png`)*
 
 - **Cuello de botella As-Is (SIPOC):** Cada uno de los 180–220 pedidos B2B/mes pasa por correo informal, consulta manual de 40 min a Serasa, espera de hasta 48 h por aprobación gerencial sin matriz de alzada, re-digitación en ERP legado para NF-e/boletos y envío manual al CD de Joinville (SC).
 - **Causa raíz Ishikawa (6M):**
@@ -62,7 +63,7 @@ Esta consultoría diseña una arquitectura práctica de **IA con Humano en el Bu
 - **Solución To-Be Lean + IA:** OCR/LLM extrae y valida datos del PDF contra catálogo → consulta automática a Serasa (< 5 min) → **Matriz de alzada** (bajo riesgo sigue flujo; alto monto/alerta pasa con ficha resumida al Gerente Financiero) → emisión sin re-digitación y orden automática al CD Joinville con chequeo CIF/FOB.
 
 ### 3.2 Entregable Opcional: Panel Financiero Presupuesto vs. Real
-*(Insertar captura: `04_evidencias_hitl/capturas/ruta4_finanzas_panel_ejecutivo.png`)*
+*(Insertar capturas: `04_evidencias_hitl/capturas/ruta4_finanzas_panel_ejecutivo.png` y tablero Magnus BI `04_evidencias_hitl/capturas/vista_magnus_tablero_ejecutivo.png`)*
 
 - **EBITDA T1–T4:** T1 −15,7 % → T2 −18,4 % → T3 −55,6 % → **T4 −65,3 %**.
 - **Sobrecostos críticos:** Fletes CD (+57,1 %), Reentregas y multas (+245,2 %), Cancelaciones (+120,5 %) y PDD Inadimplencia (+152,3 %).
@@ -77,7 +78,7 @@ Esta consultoría diseña una arquitectura práctica de **IA con Humano en el Bu
 |---|---|---|---|
 | Ruta 0 | AI Canvas, Matriz + ROI, LGPD | Supuestos de captura/inversión marcados para aprobación financiera; reglas Art. 20 | `ruta0_matriz_esfuerzo_impacto_roi.png`, `ruta0_gobernanza_lgpd.png` |
 | Ruta 4 (Principal) | `prompt_finanzas_operaciones.md` | Detección de brecha 47,4 M vs 39,02 M; aprobación de crédito 100 % humana | `ruta4_finanzas_sipoc_ishikawa.png`, `ruta4_finanzas_panel_ejecutivo.png` |
-| Anexo · Ruta 1 Ventas | `prompt_ventas_objeciones.md` | Precios contrastados vs catálogo en `#1045 Vanguarda` ($801.900 exacto) | `ruta1_ventas_pipeline_objeciones.png` |
+| Anexo · Ruta 1 Ventas | `prompt_ventas_objeciones.md` | Precios contrastados vs catálogo en `#1045 Vanguarda` ($801.900 exacto) | `ruta1_ventas_pipeline_objeciones.png`, `vista_trello_kanban_comercial_ops.png` |
 | Anexo · Ruta 2 Mkt | `prompt_marketing_voz_marca.md` | Citas exactas (23m 15s, 32 dB); cero promesas médicas | `ruta2_marketing_gem_campana.png` |
 | Anexo · Ruta 3 RRHH | `prompt_rrhh_simulador_feedback.md` | Simulador ficticio sin PII; corrección de cálculo real 64/280 = 22,86 % | `ruta3_rrhh_simulador_people_analytics.png` |
 
